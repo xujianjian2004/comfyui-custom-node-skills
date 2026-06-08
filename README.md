@@ -119,5 +119,7 @@ Built and verified against:
 ## License
 
 **MIT** — Copyright (c) jtydhr88
+
 WorkBuddy版｜由WOSAI STUDIO 穿山阅海 改造
+
 See [LICENSE](LICENSE) for full text.

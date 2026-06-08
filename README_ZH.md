@@ -119,5 +119,7 @@ cp -r comfyui-custom-node-skills/plugins/comfyui-custom-nodes/skills/comfyui-nod
 ## 许可证
 
 **MIT** — Copyright (c) jtydhr88
+
 WorkBuddy版｜由WOSAI STUDIO 穿山阅海 改造
+
 详见 [LICENSE](LICENSE) 文件。
