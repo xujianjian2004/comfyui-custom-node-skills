@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-frontend
 description: ComfyUI frontend JavaScript extensions - hooks, widgets, sidebar tabs, commands, settings, toasts, dialogs. Use when adding UI features to custom nodes, creating custom widgets, or extending the ComfyUI frontend.
+description_zh: "ComfyUI 前端扩展开发指南—— JavaScript API、生命周期钩子、自定义小部件、侧边栏/底部面板、右键菜单、服务端通信"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Frontend Extensions
@@ -533,7 +536,7 @@ Symbols are also accessible via `window.comfyAPI.<module>.<export>`.
 - **`scripts/utils`** — `clone()`, `addStylesheet()`, `uploadFile()`, `downloadBlob()`, storage helpers
 - **`scripts/pnginfo`** — `getPngMetadata()`, `getWebpMetadata()`, `importA1111()`, format-specific extractors
 
-For full API details, see the [API Reference](api-reference.md).
+For full API details, see the [API Reference](references/api-reference.md).
 
 ## See Also
 

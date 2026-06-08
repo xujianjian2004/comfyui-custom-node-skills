@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-outputs
 description: ComfyUI node output types - NodeOutput, UI outputs, PreviewImage, PreviewMask, SavedImages, PreviewAudio, PreviewText, PreviewVideo. Use when returning results from nodes, displaying previews, or saving output files.
+description_zh: "ComfyUI 节点输出类型与 UI 预览指南（V3 API）—— NodeOutput、PreviewImage、保存图像/音频/视频、UI 辅助工具"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Node Outputs

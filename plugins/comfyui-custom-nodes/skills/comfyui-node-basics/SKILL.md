@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-basics
 description: ComfyUI custom node fundamentals - V3 node structure, Schema, inputs/outputs, registration. Use when creating new ComfyUI custom nodes, defining node classes, or setting up a custom node project.
+description_zh: "ComfyUI 自定义节点开发基础（V3 API）—— 节点结构、Schema 定义、输入输出配置、注册方式"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Custom Node Basics (V3 API)

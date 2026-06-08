@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-datatypes
 description: ComfyUI data types - IMAGE, LATENT, MASK, CONDITIONING, MODEL, CLIP, VAE, AUDIO, VIDEO, 3D types, widget types, and custom types. Use when working with ComfyUI tensors, model types, or defining input/output data types.
+description_zh: "ComfyUI 数据类型参考—— IMAGE、LATENT、MASK、CONDITIONING、MODEL、CLIP、VAE 等张量形状与格式、3D 类型、自定义类型"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Data Types

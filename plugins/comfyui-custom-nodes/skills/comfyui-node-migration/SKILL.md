@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-migration
 description: ComfyUI V1 to V3 node migration - converting legacy nodes to the V3 API. Use when migrating existing custom nodes from V1 to V3, understanding differences between API versions, or modernizing node code.
+description_zh: "ComfyUI V1 到 V3 节点迁移指南——属性映射（CATEGORY→Schema）、方法转换（IS_CHANGED→fingerprint_inputs）、注册方式变更（NODE_CLASS_MAPPINGS→ComfyExtension）"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI V1 → V3 Migration Guide

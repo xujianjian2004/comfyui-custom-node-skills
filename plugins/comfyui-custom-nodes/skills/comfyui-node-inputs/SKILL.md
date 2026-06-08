@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-inputs
 description: ComfyUI node input types - INT, FLOAT, STRING, BOOLEAN, COMBO widgets, hidden inputs, optional inputs, lazy inputs, force_input. Use when configuring node inputs, adding widgets, or customizing input behavior.
+description_zh: "ComfyUI 节点输入类型完整指南（V3 API）—— INT、FLOAT、STRING、BOOLEAN、COMBO 等控件配置、隐藏输入、可选输入、惰性求值"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Node Inputs

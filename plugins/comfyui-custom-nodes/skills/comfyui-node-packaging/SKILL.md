@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-packaging
 description: ComfyUI custom node project structure - directory layout, __init__.py, registration, requirements.txt, publishing, WEB_DIRECTORY. Use when setting up a new custom node project, packaging nodes, or publishing to the registry.
+description_zh: "ComfyUI 自定义节点打包与发布指南——项目结构、__init__.py（V3 注册方式）、pyproject.toml、前端扩展、发布到 ComfyUI Registry"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Custom Node Packaging

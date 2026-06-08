@@ -6,7 +6,7 @@ license = "MIT"
 requires-python = ">=3.10"
 
 [project.urls]
-Repository = "https://github.com/example/comfyui-skill-test-nodes"
+Repository = "https://github.com/xujianjian2004/comfyui-custom-node-skills"
 
 [tool.comfy]
 PublisherId = "skill-test"

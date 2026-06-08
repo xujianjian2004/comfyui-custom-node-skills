@@ -1,6 +1,9 @@
 ---
 name: comfyui-node-advanced
 description: ComfyUI advanced node patterns - MatchType, Autogrow, DynamicCombo, node expansion, MultiType, wildcard inputs. Use when building complex nodes with dynamic inputs, type matching, or node expansion.
+description_zh: "ComfyUI 高级节点模式（V3 API）—— MatchType 泛型类型、Autogrow 动态增长、DynamicCombo 条件输入、节点扩展、MultiType"
+agent_created: true
+version: "1.0.0"
 ---
 
 # ComfyUI Advanced Node Patterns (V3)
